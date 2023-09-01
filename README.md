@@ -1,6 +1,7 @@
 ## Oii, eu sou a Letícia Pedrosa, estudante de Ciência da Computação!
-<div>
-  <a href="https://github.com/leticiaGuimaraesP">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<h2 align="center">My GitHub stats</h2>
+<div align="center">
+  <a href="https://github.com/YuriRDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardoocoelho&show_icons=true&theme=radical&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoocoelho&layout=compact&theme=radical"/>
 </div>
