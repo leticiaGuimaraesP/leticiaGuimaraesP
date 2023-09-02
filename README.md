@@ -29,7 +29,7 @@
 <br>
 <div align="center"> 
 <a href = "mailto:leticia.guimaraes.pedrosa@gmail.com.br"> <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/letícia-guimarães-pedrosa-308676218" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF1493&height=120&section=footer"/>
